@@ -1,4 +1,4 @@
-# Day-02
+# Day-06
 # Topic- bytearray data type
 # Done By - Mohammad Kaif Alam
 #==============================================================
